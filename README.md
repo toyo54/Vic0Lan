@@ -18,7 +18,7 @@
 
 |   Java ♨
 
-|   JavaScript 🟨
+|   JavaScript css3 git html5 javascript kotlin
 
 |   HTML 🌐
 
