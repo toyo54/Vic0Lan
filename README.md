@@ -12,7 +12,7 @@
 
 |   Visual Studio Code / IntelliJ
 
-
+##
 
 |   Python 🐍
 
