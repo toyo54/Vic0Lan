@@ -12,7 +12,7 @@
 
 |   Visual Studio Code / IntelliJ
 
-##
+###
 
 |   Python 🐍
 
@@ -23,4 +23,6 @@
 |   HTML 🌐
 
 |   CSS 🖊️
+
+| Angular 
 #
