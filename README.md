@@ -11,12 +11,12 @@
 
 ## Languages / Frameworks
 
-#Back-End
+##Back-End
 |   Python 🐍
 
 |   Java ♨
 
-#Front-End
+##Front-End
 
 |   HTML 🌐
 
