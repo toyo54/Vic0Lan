@@ -11,15 +11,18 @@
 
 ## Languages / Frameworks
 
+#Back-End
 |   Python 🐍
 
 |   Java ♨
 
-|   JavaScript 🟨
+#Front-End
 
 |   HTML 🌐
 
 |   CSS 🖊️
+
+|   JavaScript 🟨
 
 | Angular 
 #
