@@ -28,4 +28,4 @@
 | Angular 📕
 
 ### Week-End (I know it isn't fun)
-| Dicinding if learn Swift or Rust...
+| Currently learning Rust 
