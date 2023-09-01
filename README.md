@@ -7,7 +7,7 @@
 |   Interested in all technologies and their uses ⚙
 
 
-|   Visual Studio Code / IntelliJ
+|   Vim / Visual Studio Code / IntelliJ
 
 ## Languages / Frameworks
 
@@ -15,7 +15,9 @@
 
 |   Python 🐍
 
-|   Java ♨
+|   Java / Kotlin ♨ 
+
+|   Rust 🦀
 
 ### Front-End
 
@@ -28,4 +30,4 @@
 | Angular 📕
 
 ### Week-End (I know it isn't fun)
-| Currently learning Rust 
+| working on side prejects 
