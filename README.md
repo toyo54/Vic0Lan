@@ -1,5 +1,5 @@
 ## About me 
-|   Hi my name is Vittorio 😄
+|   Hi my name is Vic 
 
 |   Web sites/apps, discord bots 💻
 
