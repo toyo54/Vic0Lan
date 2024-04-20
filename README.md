@@ -2,9 +2,6 @@
 |   Hi my name is Vic 
 
 
-|   Interested in all technologies and their uses ⚙
-
-
 |   Vim / Visual Studio Code / IntelliJ
 
 ## Languages / Frameworks
