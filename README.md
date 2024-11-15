@@ -2,7 +2,7 @@
 |   Hi my name is Vic 
 
 
-|   Vim / Visual Studio Code / IntelliJ
+|   Vim / Zed / IntelliJ
 
 ## Languages / Frameworks
 
