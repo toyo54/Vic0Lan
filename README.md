@@ -1,7 +1,6 @@
 ## About me 
 |   Hi my name is Vic 
 
-
 |   Vim / Zed / IntelliJ
 
 ## Languages / Frameworks
